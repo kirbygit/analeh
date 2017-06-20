@@ -5,7 +5,7 @@ rvm:
 
 before_script:
   # - cp config/database.yml.travis config/database.yml
-  - psql -c 'create database aneleh_test;' -U postgres
+  - psql -c 'create database Analeh_test;' -U postgres
 
 # Configure to use Code Climate
 addons:

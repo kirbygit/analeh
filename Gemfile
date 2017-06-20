@@ -30,6 +30,7 @@ group :development, :test do
   gem 'selenium-webdriver'
   gem 'pry-rails' # Use pry for multiple functionality inside rails console
   gem 'rspec-rails', '~> 3.5' # Use rspec as testing framework
+  gem "factory_girl_rails", "~> 4.0"
   gem "rails_best_practices" # code metric tool to check the quality of Rails code.
   gem 'reek', '~> 4.6', '>= 4.6.2' # modules and methods and reports any code smells it finds.
 end

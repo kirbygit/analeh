@@ -1,24 +1,86 @@
-# README
+# analeh
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+TODO: Put more badges here.
 
-Things you may want to cover:
+![banner](./public/aneleh.png)
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+> analeh a web based shopping cart
 
-* Database creation
+TODO: Fill out this long description.
 
-* Database initialization
+## Table of Contents
 
-* How to run the test suite
+- [Security](#security)
+- [Background](#background)
+- [Install](#install)
+- [Usage](#usage)
+- [Maintainers](#maintainers)
+- [Contribute](#contribute)
+- [License](#license)
 
-* Services (job queues, cache servers, search engines, etc.)
+## Background
 
-* Deployment instructions
+Aneleh
 
-* ...
+## Install
+
+### System Requirements
+- Ruby `2.3.1` recommended
+- Postgres 9.2+
+
+### Fork and bundle
+- Fork the project
+- Run bundle to install gems
+```bash
+bundle install
+```
+
+### Database setup
+
+[Download and Install Postgres](https://www.postgresql.org/download/)
+
+- Create the databases:
+```bash
+rails db:create
+```
+
+- Run migrations to create tables:
+```bash
+rails db:migrate
+```
+
+### Running Tests
+
+To run the tests, use:
+
+```bash
+bundle exec rspec
+```
+
+## Maintainers
+
+<table id="contributors">
+<tr>
+<td>
+<img src=https://avatars2.githubusercontent.com/u/20747057?v=3&s=400>
+Kirby James _(Engineer/Developer)_ - [https://github.com/kirbygit](https://github.com/kirbygit)
+</td>
+</tr>
+</table>
+
+## Contribute
+
+See [the contribute file](contribute.md)!
+
+PRs accepted.
+
+Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
+
+## License
+
+May be freely distributed under the [MIT license](https://raw.githubusercontent.com/kirbygit/aneleh/master/LICENSE?token=ATyTMRSHSaInb1EHbkIfXP4MAyfnxrV-ks5ZUrD0wA%3D%3D).
+
+MIT © Kirby James

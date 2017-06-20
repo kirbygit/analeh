@@ -1,6 +1,7 @@
 # analeh
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
 TODO: Put more badges here.
 
 ![banner](./public/aneleh.png)
@@ -60,16 +61,19 @@ To run the tests, use:
 bundle exec rspec
 ```
 
-## Maintainers
+Maintainers
+------------
 
-<table id="contributors">
+<table id="maintainers">
 <tr>
 <td>
 <img src=https://avatars2.githubusercontent.com/u/20747057?v=3&s=400>
-Kirby James _(Engineer/Developer)_ - [https://github.com/kirbygit](https://github.com/kirbygit)
+<!-- <a href="https://github.com/kirbygit">Kirby James(kirbygit)</a> -->
 </td>
 </tr>
 </table>
+
+Kirby James _(Engineer/Developer)_ - [https://github.com/kirbygit](https://github.com/kirbygit)
 
 ## Contribute
 

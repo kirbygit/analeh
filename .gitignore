@@ -30,3 +30,6 @@ _site
 
 # Ignore coverage files from codeclimate
 coverage
+
+# Ignore application configuration
+/config/application.yml

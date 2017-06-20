@@ -1,0 +1,17 @@
+language: ruby
+
+rvm:
+  2.3.1
+
+before_script:
+  - cp config/database.yml.travis config/database.yml
+  - psql -c 'create database aneleh_test;' -U postgres
+
+# Configure to use Code Climate
+addons:
+  postgresql: "9.4"
+  code_climate:
+    repo_token: ENV["code_climate_token"]
+# regular test configuration
+after_success:
+  - bundle exec codeclimate-test-reporter

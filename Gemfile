@@ -15,6 +15,8 @@ gem 'devise' # Use Devise for user authentication
 # Misc #
 ########
 
+gem "figaro"
+
 gem 'rails', '~> 5.1.0.rc2'
 gem 'pg', '~> 0.18'
 gem 'puma', '~> 3.7'
@@ -33,6 +35,8 @@ group :development, :test do
   gem "factory_girl_rails", "~> 4.0"
   gem "rails_best_practices" # code metric tool to check the quality of Rails code.
   gem 'reek', '~> 4.6', '>= 4.6.2' # modules and methods and reports any code smells it finds.
+  gem 'simplecov', :require => false, :group => :test
+  gem "codeclimate-test-reporter", "~> 1.0.0" # codeclimate-test-reporter
 end
 
 group :development do

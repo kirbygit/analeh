@@ -3,7 +3,7 @@
 [![Issue Count](https://codeclimate.com/repos/5949803a355ade026900015e/badges/issue_count.svg)](https://codeclimate.com/repos/5949803a355ade026900015e)
 [![Test Coverage](https://codeclimate.com/repos/5949803a355ade026900015e/badges/coverage.svg)](https://codeclimate.com/repos/5949803a355ade026900015e/coverage)
 [![Test Coverage](https://codeclimate.com/repos/5949803a355ade026900015e/badges/coverage.svg)](https://codeclimate.com/repos/5949803a355ade026900015e/coverage)
-[![Build Status](https://travis-ci.com/kirbygit/aneleh.svg?branch=master)](https://travis-ci.com/kirbygit/aneleh)
+[![Build Status](https://travis-ci.com/kirbygit/aneleh.svg?token=yNay1dDRnhfQJLcDJyhU&branch=master)](https://travis-ci.com/kirbygit/aneleh)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 TODO: Put more badges here.

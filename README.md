@@ -1,10 +1,11 @@
 # analeh
 
-[![Issue Count](https://codeclimate.com/repos/5949803a355ade026900015e/badges/issue_count.svg)](https://codeclimate.com/repos/5949803a355ade026900015e)
-[![Test Coverage](https://codeclimate.com/repos/5949803a355ade026900015e/badges/coverage.svg)](https://codeclimate.com/repos/5949803a355ade026900015e/coverage)
-[![Test Coverage](https://codeclimate.com/repos/5949803a355ade026900015e/badges/coverage.svg)](https://codeclimate.com/repos/5949803a355ade026900015e/coverage)
+[![Code Climate](hhttps://codeclimate.com/repos/5949803a355ade026900015e/badges/bcc17c60ae31e62f0420/gpa.svg)](https://codeclimate.com/repos/5949803a355ade026900015e)
+[![Issue Count](https://codeclimate.com/repos/5949803a355ade026900015e/badges/bcc17c60ae31e62f0420/issue_count.svg)](https://codeclimate.com/repos/5949803a355ade026900015e)
+[![Test Coverage](https://codeclimate.com/repos/5949803a355ade026900015e/badges/bcc17c60ae31e62f0420/coverage.svg)](https://codeclimate.com/repos/5949803a355ade026900015e/coverage)
 [![Build Status](https://travis-ci.com/kirbygit/aneleh.svg?token=yNay1dDRnhfQJLcDJyhU&branch=master)](https://travis-ci.com/kirbygit/aneleh)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
 
 TODO: Put more badges here.
 
